@@ -50,7 +50,7 @@ The dataset contains **2,225 BBC News articles**, categorized into 5 classes:
 | File/Folder | Description |
 |-------------|-------------|
 | `Model/` | Saved models using `joblib` for future prediction or reuse. |
-| └── `rf_model_embeddings.pkl` | Random Forest model trained on spaCy vectorized features. |
+| └── `random_forest_model.pkl` | Random Forest model trained on spaCy vectorized features. |
 | `df_file.csv` | Cleaned dataset . |
 | `df_file.ipynb` | Main notebook: preprocessing, vectorization using spaCy, training, and evaluation. |
 | `README.md` | This project overview and instructions. |

@@ -63,7 +63,7 @@ The dataset contains **2,225 BBC News articles**, categorized into 5 classes:
 |---------------------------|------------------|------------------|------------------------|-----------|
 | BoW                       | ❌                | ❌                | ✅                     | ❌        |
 | TF-IDF                    | ❌                | ❌                | ✅                     | ❌        |
-| Word Embeddings (spaCy)   | ✅                | ✅                | ✅                     | ✅        |
+| Word Embeddings (spaCy)   | ✅                | ✅                | ✅  (optional)                  | ✅        |
 
 ---
 
